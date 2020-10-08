@@ -1,4 +1,4 @@
-## FathomLinkTracking for Squarespace Websites
+## Fathom Click Tracking for Squarespace Websites
 
 I use fathom (https://usefathom.com/) to track visits for all my websites and recently needed to solve a problem. 
 
