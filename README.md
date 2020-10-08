@@ -23,3 +23,9 @@ You can see that I'm only looking for an href that contains 'prevail' because I 
 2. If the user is using an ad blocker (i.e. js blocker) this will not work. Such is life. 
 
 This line of code now tracks all clicks to that domain on every page of my website providing helpful data to the companies I represent. 
+
+### Check Fathom out if you're tired of selling out your users to google.
+
+I honestly love them, if you want to try them use the link below to get $10 off your first invoice. 
+
+https://usefathom.com/ref/110LLG
