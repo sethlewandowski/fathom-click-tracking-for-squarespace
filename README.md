@@ -10,11 +10,11 @@ So, instead, I used a .js code injection into the FOOTER of all pages which look
 
 #### Here's an example of how I added an event listener for clicks to all elements that send the clicker to a url 
 ```
-document.querySelectorAll("[href*=prevail]").forEach(item => {
-	item.addEventListener('click', () => fathom.trackGoal('RRWE7BFH', 0));
+document.querySelectorAll("[href*=domainname]").forEach(item => {
+	item.addEventListener('click', () => fathom.trackGoal('TRACKING_CODE_HERE', 0));
 });
 ```
-You can see that I'm only looking for an href that contains 'prevail' because I want it to match all links to that site (i.e. prevail.com, www.prevail.com, www.prevail.com/blog, etc), from there, it's easy to add the event listener which calls a function stated in the head of my document (i.e. my tracking link). 
+You can see that I'm only looking for an href that contains 'domainname' because I want it to match all links to that site (i.e. domainname.com, www.domainname.com, www.domainname.com/blog, etc), from there, it's easy to add the event listener which calls a function stated in the head of my document (i.e. my tracking link). 
 
 ### Don't forget!
 
